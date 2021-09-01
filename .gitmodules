@@ -1,1 +1,4 @@
 
+[submodule "EX1"]
+	path = EX1
+	url = https://github.com/mastervoodoo2/MyExternal.git
